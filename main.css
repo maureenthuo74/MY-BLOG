@@ -1,0 +1,18 @@
+*{
+  background-color: rgb(70, 70, 248);
+}
+
+.card-container {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  }
+
+.card {
+  min-height: 300px;
+  min-width: 300px;
+  margin: 0.5rem;
+  align-items: center;
+  justify-content: space-between;
+}
